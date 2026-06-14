@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.48 24.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666;
+      }
+    </style>
+  </defs>
+  <g id="Desktop_upto_1920px_" data-name="Desktop (upto 1920px)">
+    <g>
+      <rect class="cls-1" x="9.26" y="-2.66" width="5.95" height="29.8" rx=".97" ry=".97" transform="translate(-5.07 12.24) rotate(-45)"/>
+      <rect class="cls-1" x="-2.66" y="9.26" width="29.8" height="5.95" rx=".99" ry=".99" transform="translate(-5.07 12.24) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

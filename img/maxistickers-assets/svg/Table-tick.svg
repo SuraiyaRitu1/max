@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.03 34.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #6fbf6f;
+      }
+    </style>
+  </defs>
+  <g id="Desktop_upto_1920px_" data-name="Desktop (upto 1920px)">
+    <g>
+      <circle class="cls-2" cx="17.01" cy="17.01" r="17.01"/>
+      <path class="cls-1" d="M14.29,24.36l-6.32-6.2c-.31-.3-.31-.79,0-1.09l1.9-1.86c.3-.29.77-.29,1.07,0l2.82,2.77c.3.29.77.29,1.07,0l8.27-8.1c.3-.29.77-.29,1.07,0l1.9,1.86c.31.3.31.79,0,1.09l-11.77,11.53h0Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38.65 25.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bd0034;
+      }
+
+      .cls-2 {
+        fill: #1a237b;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Assets">
+    <g>
+      <path class="cls-3" d="M0,0h38.65v25.36H0V0Z"/>
+      <path class="cls-1" d="M17.69,0v10.68H0v4.52h17.69v10.16h3.58v-10.16h17.37v-4.52h-17.37V0h-3.58Z"/>
+      <path class="cls-2" d="M16.5,0H3.02l13.48,8.52V0Z"/>
+      <path class="cls-2" d="M0,9.17h9.5L0,3.15v6.02Z"/>
+      <path class="cls-1" d="M0,0v1.48l11.4,7.12h2.8S2.96,1.64.29,0h-.29Z"/>
+      <path class="cls-2" d="M16.5,25.36H3.02l13.48-8.52v8.52Z"/>
+      <path class="cls-2" d="M0,16.19h9.5L0,22.22v-6.02Z"/>
+      <path class="cls-1" d="M0,25.37v-1.48l11.4-7.12h2.8S2.96,23.72.29,25.37h-.29Z"/>
+      <path class="cls-2" d="M22.15,0h13.48l-13.48,8.52V0Z"/>
+      <path class="cls-2" d="M38.65,9.17h-9.5l9.5-6.02v6.02Z"/>
+      <path class="cls-1" d="M38.65,0v1.48l-11.4,7.12h-2.8S35.68,1.64,38.36,0h.29Z"/>
+      <path class="cls-2" d="M22.15,25.36h13.48l-13.48-8.52v8.52Z"/>
+      <path class="cls-2" d="M38.65,16.19h-9.5l9.5,6.02v-6.02Z"/>
+      <path class="cls-1" d="M38.65,25.37v-1.48l-11.4-7.12h-2.8s11.23,6.96,13.91,8.6h.29Z"/>
+    </g>
+  </g>
+</svg>
